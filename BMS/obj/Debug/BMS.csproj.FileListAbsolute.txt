@@ -1,0 +1,394 @@
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\BMS\BMS\bin\ApplicationInsights.config
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\BMS\BMS\bin\roslyn\csc.exe
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\BMS\BMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\BMS\BMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\BMS\BMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\BMS\BMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\BMS\BMS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\BMS\BMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\BMS\BMS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\BMS\BMS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\BMS\BMS\bin\roslyn\vbc.exe
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\BMS\BMS\bin\roslyn\VBCSCompiler.exe
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\BMS\BMS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\BMS\BMS\bin\BMS.dll.config
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\BMS\BMS\bin\BMS.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\BMS\BMS\bin\BMS.pdb
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\BMS\BMS\bin\Antlr3.Runtime.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\BMS\BMS\bin\EntityFramework.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\BMS\BMS\bin\EntityFramework.SqlServer.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\BMS\BMS\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\BMS\BMS\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\BMS\BMS\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\BMS\BMS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\BMS\BMS\bin\Microsoft.AI.Web.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\BMS\BMS\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\BMS\BMS\bin\Microsoft.ApplicationInsights.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\BMS\BMS\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\BMS\BMS\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\BMS\BMS\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\BMS\BMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\BMS\BMS\bin\Microsoft.Owin.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\BMS\BMS\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\BMS\BMS\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\BMS\BMS\bin\Microsoft.Owin.Security.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\BMS\BMS\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\BMS\BMS\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\BMS\BMS\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\BMS\BMS\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\BMS\BMS\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\BMS\BMS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\BMS\BMS\bin\Newtonsoft.Json.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\BMS\BMS\bin\Owin.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\BMS\BMS\bin\System.Web.Helpers.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\BMS\BMS\bin\System.Web.Mvc.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\BMS\BMS\bin\System.Web.Optimization.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\BMS\BMS\bin\System.Web.Razor.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\BMS\BMS\bin\System.Web.WebPages.Deployment.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\BMS\BMS\bin\System.Web.WebPages.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\BMS\BMS\bin\System.Web.WebPages.Razor.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\BMS\BMS\bin\WebGrease.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\BMS\BMS\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\BMS\BMS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\BMS\BMS\bin\Microsoft.AI.Web.xml
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\BMS\BMS\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\BMS\BMS\bin\Microsoft.ApplicationInsights.xml
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\BMS\BMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\BMS\BMS\bin\System.Web.Helpers.xml
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\BMS\BMS\bin\System.Web.Mvc.xml
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\BMS\BMS\bin\System.Web.Optimization.xml
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\BMS\BMS\bin\System.Web.Razor.xml
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\BMS\BMS\bin\System.Web.WebPages.xml
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\BMS\BMS\bin\System.Web.WebPages.Deployment.xml
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\BMS\BMS\bin\System.Web.WebPages.Razor.xml
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\BMS\BMS\bin\Antlr3.Runtime.pdb
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\BMS\BMS\bin\Newtonsoft.Json.xml
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\BMS\BMS\bin\EntityFramework.xml
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\BMS\BMS\bin\EntityFramework.SqlServer.xml
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\BMS\BMS\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\BMS\BMS\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\BMS\BMS\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\BMS\BMS\bin\Microsoft.Owin.xml
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\BMS\BMS\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\BMS\BMS\bin\Microsoft.Owin.Security.xml
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\BMS\BMS\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\BMS\BMS\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\BMS\BMS\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\BMS\BMS\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\BMS\BMS\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\BMS\BMS\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\BMS\BMS\obj\Debug\BMS.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\BMS\BMS\obj\Debug\BMS.pdb
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\BMS\BMS\bin\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\BMS\BMS\bin\Microsoft.VisualStudio.DebuggerVisualizers.xml
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\BMS\BMS\obj\Debug\BMS.Migrations.IntialModel.resources
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\BMS\BMS\obj\Debug\BMS.csproj.GenerateResource.Cache
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\BMS\BMS\obj\Debug\BMS.Migrations.dbRelationFixed.resources
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\BMS\BMS\obj\Debug\BMS.Migrations.curntMangersInBranchAdded.resources
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\BMS\BMS\obj\Debug\BMS.Migrations.userTypeAded.resources
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\BMS\BMS\obj\Debug\BMS.Migrations.newusertypeADED.resources
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\BMS\BMS\obj\Debug\BMS.Migrations.newusertypeADED03.resources
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\BMS\BMS\obj\Debug\BMS.csprojResolveAssemblyReference.cache
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\BMS\BMS\obj\Debug\BMS.Migrations.madAdded.resources
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\BMS\BMS\obj\Debug\BMS.Migrations.requiredAdded.resources
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\BMS\BMS\obj\Debug\BMS.Migrations.useidAded.resources
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\BMS\BMS\obj\Debug\BMS.Migrations.passwrdadded.resources
+C:\Users\anikc\OneDrive\Documents\Visual Studio 2015\Projects\New folder\BMS\BMS\obj\Debug\BMS.Migrations.Mdaded.resources
+E:\IDM Downloads\New folder\BMS\BMS\bin\ApplicationInsights.config
+E:\IDM Downloads\New folder\BMS\BMS\bin\roslyn\csc.exe
+E:\IDM Downloads\New folder\BMS\BMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\IDM Downloads\New folder\BMS\BMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\IDM Downloads\New folder\BMS\BMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\IDM Downloads\New folder\BMS\BMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\IDM Downloads\New folder\BMS\BMS\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\IDM Downloads\New folder\BMS\BMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\IDM Downloads\New folder\BMS\BMS\bin\roslyn\System.Collections.Immutable.dll
+E:\IDM Downloads\New folder\BMS\BMS\bin\roslyn\System.Reflection.Metadata.dll
+E:\IDM Downloads\New folder\BMS\BMS\bin\roslyn\vbc.exe
+E:\IDM Downloads\New folder\BMS\BMS\bin\roslyn\VBCSCompiler.exe
+E:\IDM Downloads\New folder\BMS\BMS\bin\roslyn\VBCSCompiler.exe.config
+E:\IDM Downloads\New folder\BMS\BMS\bin\BMS.dll.config
+E:\IDM Downloads\New folder\BMS\BMS\bin\BMS.dll
+E:\IDM Downloads\New folder\BMS\BMS\bin\BMS.pdb
+E:\IDM Downloads\New folder\BMS\BMS\bin\Antlr3.Runtime.dll
+E:\IDM Downloads\New folder\BMS\BMS\bin\EntityFramework.dll
+E:\IDM Downloads\New folder\BMS\BMS\bin\EntityFramework.SqlServer.dll
+E:\IDM Downloads\New folder\BMS\BMS\bin\Microsoft.AI.Agent.Intercept.dll
+E:\IDM Downloads\New folder\BMS\BMS\bin\Microsoft.AI.DependencyCollector.dll
+E:\IDM Downloads\New folder\BMS\BMS\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\IDM Downloads\New folder\BMS\BMS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\IDM Downloads\New folder\BMS\BMS\bin\Microsoft.AI.Web.dll
+E:\IDM Downloads\New folder\BMS\BMS\bin\Microsoft.AI.WindowsServer.dll
+E:\IDM Downloads\New folder\BMS\BMS\bin\Microsoft.ApplicationInsights.dll
+E:\IDM Downloads\New folder\BMS\BMS\bin\Microsoft.AspNet.Identity.Core.dll
+E:\IDM Downloads\New folder\BMS\BMS\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\IDM Downloads\New folder\BMS\BMS\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\IDM Downloads\New folder\BMS\BMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\IDM Downloads\New folder\BMS\BMS\bin\Microsoft.Owin.dll
+E:\IDM Downloads\New folder\BMS\BMS\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\IDM Downloads\New folder\BMS\BMS\bin\Microsoft.Owin.Security.Cookies.dll
+E:\IDM Downloads\New folder\BMS\BMS\bin\Microsoft.Owin.Security.dll
+E:\IDM Downloads\New folder\BMS\BMS\bin\Microsoft.Owin.Security.Facebook.dll
+E:\IDM Downloads\New folder\BMS\BMS\bin\Microsoft.Owin.Security.Google.dll
+E:\IDM Downloads\New folder\BMS\BMS\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\IDM Downloads\New folder\BMS\BMS\bin\Microsoft.Owin.Security.OAuth.dll
+E:\IDM Downloads\New folder\BMS\BMS\bin\Microsoft.Owin.Security.Twitter.dll
+E:\IDM Downloads\New folder\BMS\BMS\bin\Microsoft.VisualStudio.DebuggerVisualizers.dll
+E:\IDM Downloads\New folder\BMS\BMS\bin\Microsoft.Web.Infrastructure.dll
+E:\IDM Downloads\New folder\BMS\BMS\bin\Newtonsoft.Json.dll
+E:\IDM Downloads\New folder\BMS\BMS\bin\Owin.dll
+E:\IDM Downloads\New folder\BMS\BMS\bin\System.Web.Helpers.dll
+E:\IDM Downloads\New folder\BMS\BMS\bin\System.Web.Mvc.dll
+E:\IDM Downloads\New folder\BMS\BMS\bin\System.Web.Optimization.dll
+E:\IDM Downloads\New folder\BMS\BMS\bin\System.Web.Razor.dll
+E:\IDM Downloads\New folder\BMS\BMS\bin\System.Web.WebPages.Deployment.dll
+E:\IDM Downloads\New folder\BMS\BMS\bin\System.Web.WebPages.dll
+E:\IDM Downloads\New folder\BMS\BMS\bin\System.Web.WebPages.Razor.dll
+E:\IDM Downloads\New folder\BMS\BMS\bin\WebGrease.dll
+E:\IDM Downloads\New folder\BMS\BMS\bin\Microsoft.AI.DependencyCollector.xml
+E:\IDM Downloads\New folder\BMS\BMS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\IDM Downloads\New folder\BMS\BMS\bin\Microsoft.AI.Web.xml
+E:\IDM Downloads\New folder\BMS\BMS\bin\Microsoft.AI.WindowsServer.xml
+E:\IDM Downloads\New folder\BMS\BMS\bin\Microsoft.ApplicationInsights.xml
+E:\IDM Downloads\New folder\BMS\BMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\IDM Downloads\New folder\BMS\BMS\bin\Microsoft.VisualStudio.DebuggerVisualizers.xml
+E:\IDM Downloads\New folder\BMS\BMS\bin\System.Web.Helpers.xml
+E:\IDM Downloads\New folder\BMS\BMS\bin\System.Web.Mvc.xml
+E:\IDM Downloads\New folder\BMS\BMS\bin\System.Web.Optimization.xml
+E:\IDM Downloads\New folder\BMS\BMS\bin\System.Web.Razor.xml
+E:\IDM Downloads\New folder\BMS\BMS\bin\System.Web.WebPages.xml
+E:\IDM Downloads\New folder\BMS\BMS\bin\System.Web.WebPages.Deployment.xml
+E:\IDM Downloads\New folder\BMS\BMS\bin\System.Web.WebPages.Razor.xml
+E:\IDM Downloads\New folder\BMS\BMS\bin\Antlr3.Runtime.pdb
+E:\IDM Downloads\New folder\BMS\BMS\bin\Newtonsoft.Json.xml
+E:\IDM Downloads\New folder\BMS\BMS\bin\EntityFramework.xml
+E:\IDM Downloads\New folder\BMS\BMS\bin\EntityFramework.SqlServer.xml
+E:\IDM Downloads\New folder\BMS\BMS\bin\Microsoft.AspNet.Identity.Core.xml
+E:\IDM Downloads\New folder\BMS\BMS\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\IDM Downloads\New folder\BMS\BMS\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\IDM Downloads\New folder\BMS\BMS\bin\Microsoft.Owin.xml
+E:\IDM Downloads\New folder\BMS\BMS\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\IDM Downloads\New folder\BMS\BMS\bin\Microsoft.Owin.Security.xml
+E:\IDM Downloads\New folder\BMS\BMS\bin\Microsoft.Owin.Security.Facebook.xml
+E:\IDM Downloads\New folder\BMS\BMS\bin\Microsoft.Owin.Security.Cookies.xml
+E:\IDM Downloads\New folder\BMS\BMS\bin\Microsoft.Owin.Security.OAuth.xml
+E:\IDM Downloads\New folder\BMS\BMS\bin\Microsoft.Owin.Security.Google.xml
+E:\IDM Downloads\New folder\BMS\BMS\bin\Microsoft.Owin.Security.Twitter.xml
+E:\IDM Downloads\New folder\BMS\BMS\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\IDM Downloads\New folder\BMS\BMS\obj\Debug\BMS.Migrations.IntialModel.resources
+E:\IDM Downloads\New folder\BMS\BMS\obj\Debug\BMS.Migrations.dbRelationFixed.resources
+E:\IDM Downloads\New folder\BMS\BMS\obj\Debug\BMS.Migrations.curntMangersInBranchAdded.resources
+E:\IDM Downloads\New folder\BMS\BMS\obj\Debug\BMS.Migrations.userTypeAded.resources
+E:\IDM Downloads\New folder\BMS\BMS\obj\Debug\BMS.Migrations.newusertypeADED.resources
+E:\IDM Downloads\New folder\BMS\BMS\obj\Debug\BMS.Migrations.newusertypeADED03.resources
+E:\IDM Downloads\New folder\BMS\BMS\obj\Debug\BMS.Migrations.madAdded.resources
+E:\IDM Downloads\New folder\BMS\BMS\obj\Debug\BMS.Migrations.requiredAdded.resources
+E:\IDM Downloads\New folder\BMS\BMS\obj\Debug\BMS.Migrations.useidAded.resources
+E:\IDM Downloads\New folder\BMS\BMS\obj\Debug\BMS.Migrations.passwrdadded.resources
+E:\IDM Downloads\New folder\BMS\BMS\obj\Debug\BMS.Migrations.Mdaded.resources
+E:\IDM Downloads\New folder\BMS\BMS\obj\Debug\BMS.csproj.GenerateResource.Cache
+E:\IDM Downloads\New folder\BMS\BMS\obj\Debug\BMS.dll
+E:\IDM Downloads\New folder\BMS\BMS\obj\Debug\BMS.pdb
+E:\IDM Downloads\New folder\BMS\BMS\obj\Debug\BMS.Migrations.AksModelAdded.resources
+E:\IDM Downloads\New folder\BMS\BMS\obj\Debug\BMS.Migrations.AksModelAdded1.resources
+E:\IDM Downloads\New folder\BMS\BMS\obj\Debug\BMS.csprojAssemblyReference.cache
+E:\IDM Downloads\New folder\BMS\BMS\obj\Debug\BMS.csproj.CopyComplete
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\bin\ApplicationInsights.config
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\bin\roslyn\csc.exe
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\bin\roslyn\System.Collections.Immutable.dll
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\bin\roslyn\System.Reflection.Metadata.dll
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\bin\roslyn\vbc.exe
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\bin\roslyn\VBCSCompiler.exe
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\bin\roslyn\VBCSCompiler.exe.config
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\bin\BMS.dll.config
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\bin\BMS.dll
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\bin\BMS.pdb
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\bin\Antlr3.Runtime.dll
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\bin\EntityFramework.dll
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\bin\EntityFramework.SqlServer.dll
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\bin\Microsoft.AI.Agent.Intercept.dll
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\bin\Microsoft.AI.DependencyCollector.dll
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\bin\Microsoft.AI.Web.dll
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\bin\Microsoft.AI.WindowsServer.dll
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\bin\Microsoft.ApplicationInsights.dll
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\bin\Microsoft.AspNet.Identity.Core.dll
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\bin\Microsoft.Owin.dll
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\bin\Microsoft.Owin.Security.Cookies.dll
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\bin\Microsoft.Owin.Security.dll
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\bin\Microsoft.Owin.Security.Facebook.dll
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\bin\Microsoft.Owin.Security.Google.dll
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\bin\Microsoft.Owin.Security.OAuth.dll
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\bin\Microsoft.Owin.Security.Twitter.dll
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\bin\Microsoft.VisualStudio.DebuggerVisualizers.dll
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\bin\Microsoft.Web.Infrastructure.dll
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\bin\Newtonsoft.Json.dll
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\bin\Owin.dll
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\bin\System.Web.Helpers.dll
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\bin\System.Web.Mvc.dll
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\bin\System.Web.Optimization.dll
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\bin\System.Web.Razor.dll
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\bin\System.Web.WebPages.Deployment.dll
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\bin\System.Web.WebPages.dll
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\bin\System.Web.WebPages.Razor.dll
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\bin\WebGrease.dll
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\bin\Microsoft.AI.DependencyCollector.xml
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\bin\Microsoft.AI.Web.xml
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\bin\Microsoft.AI.WindowsServer.xml
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\bin\Microsoft.ApplicationInsights.xml
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\bin\Microsoft.VisualStudio.DebuggerVisualizers.xml
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\bin\System.Web.Helpers.xml
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\bin\System.Web.Mvc.xml
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\bin\System.Web.Optimization.xml
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\bin\System.Web.Razor.xml
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\bin\System.Web.WebPages.xml
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\bin\System.Web.WebPages.Deployment.xml
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\bin\System.Web.WebPages.Razor.xml
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\bin\Antlr3.Runtime.pdb
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\bin\Newtonsoft.Json.xml
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\bin\EntityFramework.xml
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\bin\EntityFramework.SqlServer.xml
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\bin\Microsoft.AspNet.Identity.Core.xml
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\bin\Microsoft.Owin.xml
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\bin\Microsoft.Owin.Security.xml
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\bin\Microsoft.Owin.Security.Facebook.xml
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\bin\Microsoft.Owin.Security.Cookies.xml
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\bin\Microsoft.Owin.Security.OAuth.xml
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\bin\Microsoft.Owin.Security.Google.xml
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\bin\Microsoft.Owin.Security.Twitter.xml
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\obj\Debug\BMS.csprojAssemblyReference.cache
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\obj\Debug\BMS.Migrations.IntialModel.resources
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\obj\Debug\BMS.Migrations.dbRelationFixed.resources
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\obj\Debug\BMS.Migrations.curntMangersInBranchAdded.resources
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\obj\Debug\BMS.Migrations.userTypeAded.resources
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\obj\Debug\BMS.Migrations.newusertypeADED.resources
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\obj\Debug\BMS.Migrations.newusertypeADED03.resources
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\obj\Debug\BMS.Migrations.madAdded.resources
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\obj\Debug\BMS.Migrations.requiredAdded.resources
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\obj\Debug\BMS.Migrations.useidAded.resources
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\obj\Debug\BMS.Migrations.passwrdadded.resources
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\obj\Debug\BMS.Migrations.Mdaded.resources
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\obj\Debug\BMS.Migrations.AksModelAdded.resources
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\obj\Debug\BMS.Migrations.AksModelAdded1.resources
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\obj\Debug\BMS.csproj.GenerateResource.cache
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\obj\Debug\BMS.csproj.CopyComplete
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\obj\Debug\BMS.dll
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-AkashprjctAdded\BMS\obj\Debug\BMS.pdb
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\bin\ApplicationInsights.config
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\bin\roslyn\csc.exe
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\bin\roslyn\System.Collections.Immutable.dll
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\bin\roslyn\System.Reflection.Metadata.dll
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\bin\roslyn\vbc.exe
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\bin\roslyn\VBCSCompiler.exe
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\bin\roslyn\VBCSCompiler.exe.config
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\bin\BMS.dll.config
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\bin\BMS.dll
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\bin\BMS.pdb
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\bin\Antlr3.Runtime.dll
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\bin\EntityFramework.dll
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\bin\EntityFramework.SqlServer.dll
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\bin\Microsoft.AI.Agent.Intercept.dll
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\bin\Microsoft.AI.DependencyCollector.dll
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\bin\Microsoft.AI.Web.dll
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\bin\Microsoft.AI.WindowsServer.dll
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\bin\Microsoft.ApplicationInsights.dll
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\bin\Microsoft.AspNet.Identity.Core.dll
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\bin\Microsoft.Owin.dll
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\bin\Microsoft.Owin.Security.Cookies.dll
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\bin\Microsoft.Owin.Security.dll
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\bin\Microsoft.Owin.Security.Facebook.dll
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\bin\Microsoft.Owin.Security.Google.dll
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\bin\Microsoft.Owin.Security.OAuth.dll
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\bin\Microsoft.Owin.Security.Twitter.dll
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\bin\Microsoft.VisualStudio.DebuggerVisualizers.dll
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\bin\Microsoft.Web.Infrastructure.dll
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\bin\Newtonsoft.Json.dll
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\bin\Owin.dll
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\bin\System.Web.Helpers.dll
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\bin\System.Web.Mvc.dll
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\bin\System.Web.Optimization.dll
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\bin\System.Web.Razor.dll
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\bin\System.Web.WebPages.Deployment.dll
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\bin\System.Web.WebPages.dll
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\bin\System.Web.WebPages.Razor.dll
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\bin\WebGrease.dll
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\bin\Microsoft.AI.DependencyCollector.xml
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\bin\Microsoft.AI.Web.xml
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\bin\Microsoft.AI.WindowsServer.xml
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\bin\Microsoft.ApplicationInsights.xml
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\bin\Microsoft.VisualStudio.DebuggerVisualizers.xml
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\bin\System.Web.Helpers.xml
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\bin\System.Web.Mvc.xml
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\bin\System.Web.Optimization.xml
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\bin\System.Web.Razor.xml
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\bin\System.Web.WebPages.xml
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\bin\System.Web.WebPages.Deployment.xml
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\bin\System.Web.WebPages.Razor.xml
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\bin\Antlr3.Runtime.pdb
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\bin\Newtonsoft.Json.xml
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\bin\EntityFramework.xml
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\bin\EntityFramework.SqlServer.xml
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\bin\Microsoft.AspNet.Identity.Core.xml
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\bin\Microsoft.Owin.xml
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\bin\Microsoft.Owin.Security.xml
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\bin\Microsoft.Owin.Security.Facebook.xml
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\bin\Microsoft.Owin.Security.Cookies.xml
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\bin\Microsoft.Owin.Security.OAuth.xml
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\bin\Microsoft.Owin.Security.Google.xml
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\bin\Microsoft.Owin.Security.Twitter.xml
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\obj\Debug\BMS.csprojResolveAssemblyReference.cache
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\obj\Debug\BMS.Migrations.IntialModel.resources
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\obj\Debug\BMS.Migrations.dbRelationFixed.resources
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\obj\Debug\BMS.Migrations.curntMangersInBranchAdded.resources
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\obj\Debug\BMS.Migrations.userTypeAded.resources
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\obj\Debug\BMS.Migrations.newusertypeADED.resources
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\obj\Debug\BMS.Migrations.newusertypeADED03.resources
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\obj\Debug\BMS.Migrations.madAdded.resources
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\obj\Debug\BMS.Migrations.requiredAdded.resources
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\obj\Debug\BMS.Migrations.useidAded.resources
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\obj\Debug\BMS.Migrations.passwrdadded.resources
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\obj\Debug\BMS.Migrations.Mdaded.resources
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\obj\Debug\BMS.Migrations.AksModelAdded.resources
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\obj\Debug\BMS.Migrations.AksModelAdded1.resources
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\obj\Debug\BMS.csproj.GenerateResource.Cache
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\obj\Debug\BMS.dll
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\obj\Debug\BMS.pdb
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\obj\Debug\BMS.Migrations.newDB.resources
+F:\AIUB\11th semister\ATP 2\Final Project\BMS-Anik new\BMS\obj\Debug\BMS.Migrations.newDB1.resources

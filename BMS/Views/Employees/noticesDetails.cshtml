@@ -1,0 +1,35 @@
+﻿@model BMS.Models.EmpNoticeBoard
+
+@{
+    ViewBag.Title = "noticesDetails";
+    Layout = "~/Views/Shared/_EmpolyeeLayout.cshtml";
+}
+
+<h2>noticesDetails</h2>
+
+<div>
+    <h4>EmpNoticeBoard</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Title)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Title)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.MesBody)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.MesBody)
+        </dd>
+
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Back to List", "notices")
+</p>

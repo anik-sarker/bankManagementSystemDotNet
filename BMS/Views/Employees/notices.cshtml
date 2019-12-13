@@ -1,0 +1,41 @@
+﻿@model IEnumerable<BMS.Models.EmpNoticeBoard>
+
+@{
+    ViewBag.Title = "notices";
+    Layout = "~/Views/Shared/_EmpolyeeLayout.cshtml";
+}
+
+<h2>notices</h2>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Title)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.MesBody)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Seen)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Title)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.MesBody)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Seen)
+        </td>
+        <td>
+            @Html.ActionLink("Details", "noticesDetails", new { id=item.Id }) 
+        </td>
+    </tr>
+}
+
+</table>
