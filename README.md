@@ -30,7 +30,7 @@ Customer:
 	1.Can create their new account
 	
 ---------------------------------------------------------------------
-Following Software Design pattern and frameworks were followed during the development of this project:
+Following Software Design patterns and frameworks were followed during the development of this project:
 -------
 Frameworks:
 1. ASP.NET MVC 5
